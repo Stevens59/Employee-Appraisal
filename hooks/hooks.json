@@ -1,0 +1,11 @@
+{
+    "last_remote_check": 1575531667,
+    "hooks": {
+        "key-value-json": {
+            "name": "key-value-json",
+            "description": "Form Field \"Key-Value to JSON\" to Voyager BREAD.",
+            "version": "v0.1-beta",
+            "enabled": true
+        }
+    }
+}
